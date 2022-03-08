@@ -12,7 +12,7 @@
     <table class="table">
       <thead>
         <tr>
-          <th>No</th>
+          <th>Noa</th>
           <th>Produk</th>
           <th>Harga</th>
           <th>Subharga</th>
